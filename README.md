@@ -1,9 +1,9 @@
 ## Hello World! 👋
 
 <imagem>
- <source media="(prefere-esquema-de-cores: escuro)" srcset="[https://preview.redd.it/begabtz212p41.jpg?auto=webp&s=011533922762f7686d37a1412ec6df0362143a36](https://pbs.twimg.com/amplify_video_thumb/1892832534863441920/img/1UhRyl_yCq2CXhTX.jpg:large)">
- <source media="(prefere-esquema-de-cores: light)" srcset="[https://preview.redd.it/begabtz212p41.jpg?auto=webp&s=011533922762f7686d37a1412ec6df0362143a36](https://pbs.twimg.com/amplify_video_thumb/1892832534863441920/img/1UhRyl_yCq2CXhTX.jpg:large)">
- <img alt="Baby Malo" src="[https://preview.redd.it/begabtz212p41.jpg?auto=webp&s=011533922762f7686d37a1412ec6df0362143a36](https://pbs.twimg.com/amplify_video_thumb/1892832534863441920/img/1UhRyl_yCq2CXhTX.jpg:large)">
+ <source media="(prefere-esquema-de-cores: escuro)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWeC_0qzCzKj1AZaXb2NzJr90Lk99MWJlKw&s"(https://pbs.twimg.com/amplify_video_thumb/1892832534863441920/img/1UhRyl_yCq2CXhTX.jpg:large)">
+ <source media="(prefere-esquema-de-cores: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWeC_0qzCzKj1AZaXb2NzJr90Lk99MWJlKw&s"(https://pbs.twimg.com/amplify_video_thumb/1892832534863441920/img/1UhRyl_yCq2CXhTX.jpg:large)">
+ <img alt="Baby Malo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWeC_0qzCzKj1AZaXb2NzJr90Lk99MWJlKw&s">
 </imagem>
 <!--
 **gabrielDeSouzaMaciel/gabrielDeSouzaMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
