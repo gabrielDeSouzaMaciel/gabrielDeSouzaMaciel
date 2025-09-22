@@ -4,9 +4,9 @@
 💻 Alguém tentando levar a programação cada dia mais a sério
 
 ## 🚀 Tecnologias que uso
-- C
-- Java
-- VHDL
+- **Linguagens de Programação:** C, Java
+- **Hardware/HDL:** VHDL
+- **Ferramentas:** Git, GitHub
 
   ## 📌 Projetos
 🔹 [Controle de Fluxo](https://github.com/gabrielDeSouzaMaciel/Controle-de-fluxo) – Exercícios em C  
