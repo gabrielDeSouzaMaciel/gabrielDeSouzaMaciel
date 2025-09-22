@@ -1,16 +1,19 @@
 ## Hello World! 👋
 ### Sou alguém tentando levar a programação cada dia mais a sério
 
-![Alt text](./"C:\Users\ADMIN\OneDrive\Imagens\surfista-prateado.jpg")
+🎓 Estudante de Engenharia de Computação na UFPEL (RS, Brasil)  
+💻 Alguém tentando levar a programação cada dia mais a sério
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso
+- C
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 📌 Projetos
+🔹 [Controle de Fluxo](https://github.com/gabrielDeSouzaMaciel/Controle-de-fluxo) – Exercícios em C  
+🔹 Outros em breve...
+
+## 📫 Como me encontrar
+- ✉️ Email: gabriel.maciel1606@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/gabriel-de-souza-maciel)  
+- 🐙 [GitHub](https://github.com/gabrielDeSouzaMaciel)
+
