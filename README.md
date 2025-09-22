@@ -7,6 +7,7 @@
 ## 🚀 Tecnologias que uso
 - C
 - Java
+- VHDL
 
   ## 📌 Projetos
 🔹 [Controle de Fluxo](https://github.com/gabrielDeSouzaMaciel/Controle-de-fluxo) – Exercícios em C  
@@ -14,6 +15,6 @@
 
 ## 📫 Como me encontrar
 - ✉️ Email: gabriel.maciel1606@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/gabriel-de-souza-maciel)  
+- 🔗 [LinkedIn](https://linkedin.com/in/gabriel-de-souza-maciel-b11a7b2a8)  
 - 🐙 [GitHub](https://github.com/gabrielDeSouzaMaciel)
 
