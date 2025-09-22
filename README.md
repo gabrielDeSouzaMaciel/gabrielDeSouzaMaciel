@@ -1,4 +1,5 @@
 ## Hello World! 👋
+### Sou alguém tentando levar a programação cada dia mais a sério
 
 <imagem>
  <source media="(prefere-esquema-de-cores: escuro)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWeC_0qzCzKj1AZaXb2NzJr90Lk99MWJlKw&s"(https://pbs.twimg.com/amplify_video_thumb/1892832534863441920/img/1UhRyl_yCq2CXhTX.jpg:large)">
