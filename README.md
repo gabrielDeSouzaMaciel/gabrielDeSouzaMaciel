@@ -1,5 +1,4 @@
 ## Hello World! 👋
-### Sou alguém tentando levar a programação cada dia mais a sério
 
 🎓 Estudante de Engenharia de Computação na UFPEL (RS, Brasil)  
 💻 Alguém tentando levar a programação cada dia mais a sério
