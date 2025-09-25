@@ -9,7 +9,8 @@
 - **Ferramentas:** Git, GitHub
 
   ## 📌 Projetos
-🔹 [Controle de Fluxo](https://github.com/gabrielDeSouzaMaciel/Controle-de-fluxo) – Exercícios em C  
+🔹 [Controle de Fluxo](https://github.com/gabrielDeSouzaMaciel/Controle-de-fluxo) – Exercícios em C
+🔹 [Exercícios de POO](https://github.com/gabrielDeSouzaMaciel/exercicios-java) – Exercícios em Java sobre Programação Orientada a Objetos
 🔹 Outros em breve...
 
 ## 📫 Como me encontrar
